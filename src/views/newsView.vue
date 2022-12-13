@@ -137,7 +137,7 @@ body {
 }
 
 .news-on {
-  background: #0f4c81;
+  background: #000;
   color: #fff;
   box-shadow: 0px 0px 3px 0.4px;
 }
@@ -195,7 +195,7 @@ body {
 }
 /*news category*/
 .news-category {
-  color: #0f4c81;
+  color: pink;
   padding: 10px;
 }
 
