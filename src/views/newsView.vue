@@ -195,7 +195,7 @@ body {
 }
 /*news category*/
 .news-category {
-  color: #0f4c81;
+  color: red;
   padding: 10px;
 }
 
